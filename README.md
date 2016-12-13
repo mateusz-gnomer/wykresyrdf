@@ -1,13 +1,13 @@
-== Plots plots for rdfs ==
+## Plots plots for rdfs
 
 Usage is explained after running the script:
 python scriptName.py
 
-Installation:
+### Installation:
 
 create wykresy.sh file in a directory that is in your PATH:
 
-#!/bin/sh
+ #!/bin/sh
 
 python3 /path/to/your/python/script/here/wykresyRDF.py $1 $2 $3
 
